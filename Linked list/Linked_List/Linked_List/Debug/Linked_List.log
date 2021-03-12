@@ -1,0 +1,16 @@
+﻿  divide.c
+  linked_List.c
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Linked_List\linked_List.c(17,32): warning C4013: 'malloc' undefined; assuming extern returning int
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Linked_List\linked_List.c(20,22): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Linked_List\linked_List.c(28,28): warning C4047: '=': 'int' differs in levels of indirection from 'Node *'
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Linked_List\linked_List.c(39,22): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Linked_List\linked_List.c(48,31): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Linked_List\linked_List.c(50,28): warning C4047: '=': 'int' differs in levels of indirection from 'Node *'
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Linked_List\linked_List.c(51,28): warning C4047: '=': 'Node *' differs in levels of indirection from 'int'
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Linked_List\linked_List.c(54,11): warning C4033: 'insert_last' must return a value
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Linked_List\linked_List.c(67,29): warning C4047: '=': 'Node *' differs in levels of indirection from 'int'
+  Generating Code...
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Linked_List\linked_List.c(55): warning C4716: 'insert_last': must return a value
+divide.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+linked_List.obj : error LNK2005: _main already defined in divide.obj
+E:\FORK INFOSYSTEM\Assignment\Linked list\Linked_List\Debug\Linked_List.exe : fatal error LNK1169: one or more multiply defined symbols found
